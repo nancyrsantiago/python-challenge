@@ -1,7 +1,7 @@
 import os
 import csv
 
-election_data = os.path.join("election_data.csv")
+election_data = os.path.join("Resources", "election_data.csv")
 
 # A list to capture the names of candidates
 candidates = []
